@@ -1,1 +1,121 @@
-<VAST version=\"3.0\"><Ad id=\"10054\"><InLine>><AdSystem><![CDATA[TaurusX]]></AdSystem><AdTitle><![CDATA[ID-720*1280]]></AdTitle><Description>VAST 2.0 Instream Test</Description><Impression><![CDATA[https://c.lazada.co.id/i/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]></Impression><Error><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=error]]></Error><Impression><![CDATA[https://rtbtrack-asia.rtblab.net/imp?p=319&d=134&t=-G4sw_Kftpx2U_Ndpgg9h646TWp1vUlTRXymPMTPlnv5u4cNWEFKdmXQgL313zlEWxHDvUR5QObGvxaKSMsKDfBxj8jjyXyet2IDfWhJjfyyTMvttdH6lpCQdH3vYhWQ9l6L2Q81Wd92WiclWT6QuKCB_VfAqvU1TK2WgJn43RGhjdyQ9uv8FOd1vbIrukAuIp_QoTeevarzJmmx_4IWlvxRZ5Y8WYvGIt0HWBeQZuKAV3J60ztCFAXsMoNGji_m4XqF8oZVjxfKhy4h-g2x7f-imrz-uj_H_pAQKK-Nvxk_dO98cb3WQFPRFQT2vx2b_wJ30_QSWQWESEwOeseM5L_08Ifj2CN7relaxTKgyJAex6WwmMHtoHbkeJ7D-Q1REIFG_9znKqufalloyMR01jM_PnqumxYY5r-dydumbWohRTF2za3MpEmcWzPcrfhuX9m2wASqAUcMMzCaalVC6mNsHaM3jjZTdumYZQ0QAemCYZS0jGbv4OJJI4b5KoYzp&ns=5Ubeo_3AoAwQX6qFyM4PywwANdPbHk3lzoswggCG0eQpoX0jbQzru4NtQcCWQBudemoVrD1-PfloDG2uZuc9EQsOujWMz1lUQsWPFpnZ-X72jDHZCzSWnxGyCwC80q0woOgRQqiOTU90ztWMSYw-lhecSOjfPZltH4kvrf85Giw8lt8HANbna8NRc1jsk2mKlIMFqd1bwVLrpj22vNDD38OC4MC1DUUvbGFlxXa8YYJaduO0qxutwI179IzoHH9cLxZPfLNVJx9BXnQkc37SgtpZ7-Db4nw1-JFv_YTWtdMpm_kJVgt_5EnYampugr5JjKPD77HVzJPow84givneznNk0tFgTOsi3sLplurCnDWqFOo_sz2r69BQ9G4wKF3qC_yfdsrR_AF_n93kdsE7XJ5OCPcYqY9g1YU74Xla2bI]]></Impression><Error><![CDATA[https://rtbtrack-asia.rtblab.net/vasterror?p=319&d=134&c=10959&b=b3b8c0d2c7f2c1b02ea0d46abe65f50450eb46fbu5833&error=[ERRORCODE]]]></Error><Creatives><Creative id=\"10959\" adId=\"10054\"><Linear><Duration>00:00:15</Duration><MediaFiles><MediaFile type=\"video/mp4\" width=\"720\" height=\"1280\" bitrate=\"1362\" delivery=\"progressive\" maintainAspectRatio=\"true\" scalable=\"true\"><![CDATA[https://dsp-static.taurusx.com/10959/ID-720*1280.mp4]]></MediaFile></MediaFiles><Icons><Icon program= \"program\" width= \"123\" height= \"234\" xPosition= \"789\" yPosition= \"101\" apiFramework= \"apiFramework\" offset= \"00:00:03\" duration= \"01:02:03.456\"><StaticResource creativeType= \"ImAge/JpEg\"><![CDATA[https://cdn.pixabay.com/photo/2017/07/10/23/43/question-mark-2492009_1280.jpg]]></StaticResource><IconClicks><IconClickThrough><![CDATA[https://www.bing.com]]></IconClickThrough><IconClickTracking><![CDATA[https://aktrack.pubmatic.com?e=icon_click1]]></IconClickTracking><IconClickTracking><![CDATA[https://aktrack.pubmatic.com?e=icon_click2]]></IconClickTracking></IconClicks><IconViewTracking><![CDATA[https://aktrack.pubmatic.com?e=IconViewTracking1]]></IconViewTracking><IconViewTracking><![CDATA[https://aktrack.pubmatic.com?e=IconViewTracking2]]></IconViewTracking></Icon></Icons><VideoClicks><ClickThrough><![CDATA[https://c.lazada.co.id/t/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]></ClickThrough><ClickTracking><![CDATA[https://c.lazada.co.id/cm/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]></ClickTracking><ClickTracking><![CDATA[https://godzilla.taurusx.com/click?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004]]></ClickTracking><ClickTracking><![CDATA[https://rtbtrack-asia.rtblab.net/clk?p=319&d=134&t=-G4sw_Kftpx2U_Ndpgg9h646TWp1vUlTRXymPMTPlnv5u4cNWEFKdmXQgL313zlEWxHDvUR5QObGvxaKSMsKDfBxj8jjyXyet2IDfWhJjfyyTMvttdH6lpCQdH3vYhWQ9l6L2Q81Wd92WiclWT6QuKCB_VfqvU1TK2WgJn43RGhjdyQ9uv8FOd1vbIrukAuIp_QoTeevarzJmmx_4IWlvxRZ5Y8WYvGIt0HWBeQZuKAV3J60ztCFAXsMoNGji_m4XqF8oZVjxfKhy4h-g2x7f-imrz-uj_H_pAQKK-Nvxk_dO98cb3WQFPRFQT2vx2b_wJ30_QSWQWESEwOeseM5L_08Ifj2CN7relaxTKgyJAex6WwmMHtoHbkeJ7D-Q1REIFG_9znKqufalloyMR01jM_PnqumxYY5r-dydumbWohRTF2za3MpEmcWzPcrfhuX9m2wASqAUcMMzCaalVC6mNsHaM3jjZTdumYZQ0QAemCYZS0jGbv4OJJI4b5KoYzp]]></ClickTracking></VideoClicks><TrackingEvents><Tracking event=\"start\"><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=start]]></Tracking><Tracking event=\"complete\"><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=complete]]></Tracking><Tracking event=\"firstQuartile\"><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=firstQuartile]]></Tracking><Tracking event=\"midpoint\"><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=midpoint]]></Tracking><Tracking event=\"thirdQuartile\"><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=thirdQuartile]]></Tracking><Tracking event=\"close\"><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=close]]></Tracking></TrackingEvents></Linear></Creative><Creative><CompanionAds><Companion height=\"1280\" width=\"720\"><StaticResource creativeType=\"image/png\"><![CDATA[https://dsp-static.taurusx.com/10959/ID-5.20+720+fz-1.jpg]]></StaticResource><TrackingEvents><Tracking event=\"creativeView\"><![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=creativeView]]></Tracking></TrackingEvents><CompanionClickThrough><![CDATA[https://c.lazada.co.id/t/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]></CompanionClickThrough><CompanionClickTracking><![CDATA[https://c.lazada.co.id/cm/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]></CompanionClickTracking><CompanionClickTracking><![CDATA[https://godzilla.taurusx.com/click?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004]]></CompanionClickTracking><CompanionClickTracking><![CDATA[https://rtbtrack-asia.rtblab.net/clk?p=319&d=134&t=-G4sw_Kftpx2U_Ndpgg9h646TWp1vUlTRXymPMTPlnv5u4cNWEFKdmXQgL313zlEWxHDvUR5QObGvxaKSMsKDfBxj8jjyXyet2IDfWhJjfyyTMvttdH6lpCQdH3vYhWQ9l6L2Q81Wd92WiclWT6QuKCB_VfqvU1TK2WgJn43RGhjdyQ9uv8FOd1vbIrukAuIp_QoTeevarzJmmx_4IWlvxRZ5Y8WYvGIt0HWBeQZuKAV3J60ztCFAXsMoNGji_m4XqF8oZVjxfKhy4h-g2x7f-imrz-uj_H_pAQKK-Nvxk_dO98cb3WQFPRFQT2vx2b_wJ30_QSWQWESEwOeseM5L_08Ifj2CN7relaxTKgyJAex6WwmMHtoHbkeJ7D-Q1REIFG_9znKqufalloyMR01jM_PnqumxYY5r-dydumbWohRTF2za3MpEmcWzPcrfhuX9m2wASqAUcMMzCaalVC6mNsHaM3jjZTdumYZQ0QAemCYZS0jGbv4OJJI4b5KoYzp]]></CompanionClickTracking></Companion></CompanionAds></Creative></Creatives></InLine></Ad></VAST>
+<VAST version=\"3.0\">
+    <Ad id=\"10054\">
+        <InLine>>
+            <AdSystem>
+                <![CDATA[TaurusX]]>
+            </AdSystem>
+            <AdTitle>
+                <![CDATA[ID-720*1280]]>
+            </AdTitle>
+            <Description>VAST 2.0 Instream Test</Description>
+            <Impression>
+                <![CDATA[https://c.lazada.co.id/i/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]>
+            </Impression>
+            <Error>
+                <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=error]]>
+            </Error>
+            <Impression>
+                <![CDATA[https://rtbtrack-asia.rtblab.net/imp?p=319&d=134&t=-G4sw_Kftpx2U_Ndpgg9h646TWp1vUlTRXymPMTPlnv5u4cNWEFKdmXQgL313zlEWxHDvUR5QObGvxaKSMsKDfBxj8jjyXyet2IDfWhJjfyyTMvttdH6lpCQdH3vYhWQ9l6L2Q81Wd92WiclWT6QuKCB_VfAqvU1TK2WgJn43RGhjdyQ9uv8FOd1vbIrukAuIp_QoTeevarzJmmx_4IWlvxRZ5Y8WYvGIt0HWBeQZuKAV3J60ztCFAXsMoNGji_m4XqF8oZVjxfKhy4h-g2x7f-imrz-uj_H_pAQKK-Nvxk_dO98cb3WQFPRFQT2vx2b_wJ30_QSWQWESEwOeseM5L_08Ifj2CN7relaxTKgyJAex6WwmMHtoHbkeJ7D-Q1REIFG_9znKqufalloyMR01jM_PnqumxYY5r-dydumbWohRTF2za3MpEmcWzPcrfhuX9m2wASqAUcMMzCaalVC6mNsHaM3jjZTdumYZQ0QAemCYZS0jGbv4OJJI4b5KoYzp&ns=5Ubeo_3AoAwQX6qFyM4PywwANdPbHk3lzoswggCG0eQpoX0jbQzru4NtQcCWQBudemoVrD1-PfloDG2uZuc9EQsOujWMz1lUQsWPFpnZ-X72jDHZCzSWnxGyCwC80q0woOgRQqiOTU90ztWMSYw-lhecSOjfPZltH4kvrf85Giw8lt8HANbna8NRc1jsk2mKlIMFqd1bwVLrpj22vNDD38OC4MC1DUUvbGFlxXa8YYJaduO0qxutwI179IzoHH9cLxZPfLNVJx9BXnQkc37SgtpZ7-Db4nw1-JFv_YTWtdMpm_kJVgt_5EnYampugr5JjKPD77HVzJPow84givneznNk0tFgTOsi3sLplurCnDWqFOo_sz2r69BQ9G4wKF3qC_yfdsrR_AF_n93kdsE7XJ5OCPcYqY9g1YU74Xla2bI]]>
+            </Impression>
+            <Error>
+                <![CDATA[https://rtbtrack-asia.rtblab.net/vasterror?p=319&d=134&c=10959&b=b3b8c0d2c7f2c1b02ea0d46abe65f50450eb46fbu5833&error=[ERRORCODE]]]>
+            </Error>
+            <Creatives>
+                <Creative id=\"10959\" adId=\"10054\">
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <MediaFiles>
+                            <MediaFile type=\"video/mp4\" width=\"720\" height=\"1280\" bitrate=\"1362\" delivery=\"progressive\" maintainAspectRatio=\"true\" scalable=\"true\">
+                                <![CDATA[https://dsp-static.taurusx.com/10959/ID-720*1280.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <Icons>
+                            <Icon program= \"program\" width= \"123\" height= \"234\" xPosition= \"789\" yPosition= \"101\" apiFramework= \"apiFramework\" offset= \"00:00:03\" duration= \"01:02:03.456\">
+                                <StaticResource creativeType= \"ImAge/JpEg\">
+                                    <![CDATA[https://cdn.pixabay.com/photo/2017/07/10/23/43/question-mark-2492009_1280.jpg]]>
+                                </StaticResource>
+                                <IconClicks>
+                                    <IconClickThrough>
+                                        <![CDATA[https://www.bing.com]]>
+                                    </IconClickThrough>
+                                    <IconClickTracking>
+                                        <![CDATA[https://aktrack.pubmatic.com?e=icon_click1]]>
+                                    </IconClickTracking>
+                                    <IconClickTracking>
+                                        <![CDATA[https://aktrack.pubmatic.com?e=icon_click2]]>
+                                    </IconClickTracking>
+                                </IconClicks>
+                                <IconViewTracking>
+                                    <![CDATA[https://aktrack.pubmatic.com?e=IconViewTracking1]]>
+                                </IconViewTracking>
+                                <IconViewTracking>
+                                    <![CDATA[https://aktrack.pubmatic.com?e=IconViewTracking2]]>
+                                </IconViewTracking>
+                            </Icon>
+                        </Icons>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://c.lazada.co.id/t/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]>
+                            </ClickThrough>
+                            <ClickTracking>
+                                <![CDATA[https://c.lazada.co.id/cm/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]>
+                            </ClickTracking>
+                            <ClickTracking>
+                                <![CDATA[https://godzilla.taurusx.com/click?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004]]>
+                            </ClickTracking>
+                            <ClickTracking>
+                                <![CDATA[https://rtbtrack-asia.rtblab.net/clk?p=319&d=134&t=-G4sw_Kftpx2U_Ndpgg9h646TWp1vUlTRXymPMTPlnv5u4cNWEFKdmXQgL313zlEWxHDvUR5QObGvxaKSMsKDfBxj8jjyXyet2IDfWhJjfyyTMvttdH6lpCQdH3vYhWQ9l6L2Q81Wd92WiclWT6QuKCB_VfqvU1TK2WgJn43RGhjdyQ9uv8FOd1vbIrukAuIp_QoTeevarzJmmx_4IWlvxRZ5Y8WYvGIt0HWBeQZuKAV3J60ztCFAXsMoNGji_m4XqF8oZVjxfKhy4h-g2x7f-imrz-uj_H_pAQKK-Nvxk_dO98cb3WQFPRFQT2vx2b_wJ30_QSWQWESEwOeseM5L_08Ifj2CN7relaxTKgyJAex6WwmMHtoHbkeJ7D-Q1REIFG_9znKqufalloyMR01jM_PnqumxYY5r-dydumbWohRTF2za3MpEmcWzPcrfhuX9m2wASqAUcMMzCaalVC6mNsHaM3jjZTdumYZQ0QAemCYZS0jGbv4OJJI4b5KoYzp]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                        <TrackingEvents>
+                            <Tracking event=\"start\">
+                                <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=start]]>
+                            </Tracking>
+                            <Tracking event=\"complete\">
+                                <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=complete]]>
+                            </Tracking>
+                            <Tracking event=\"firstQuartile\">
+                                <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=firstQuartile]]>
+                            </Tracking>
+                            <Tracking event=\"midpoint\">
+                                <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=midpoint]]>
+                            </Tracking>
+                            <Tracking event=\"thirdQuartile\">
+                                <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=thirdQuartile]]>
+                            </Tracking>
+                            <Tracking event=\"close\">
+                                <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=close]]>
+                            </Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+                <Creative>
+                    <CompanionAds>
+                        <Companion height=\"1280\" width=\"720\">
+                            <StaticResource creativeType=\"image/png\">
+                                <![CDATA[https://dsp-static.taurusx.com/10959/ID-5.20+720+fz-1.jpg]]>
+                            </StaticResource>
+                            <TrackingEvents>
+                                <Tracking event=\"creativeView\">
+                                    <![CDATA[https://godzilla.taurusx.com/event?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004&c=creativeView]]>
+                                </Tracking>
+                            </TrackingEvents>
+                            <CompanionClickThrough>
+                                <![CDATA[https://c.lazada.co.id/t/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]>
+                            </CompanionClickThrough>
+                            <CompanionClickTracking>
+                                <![CDATA[https://c.lazada.co.id/cm/c.0ym6jY?rta_token=0875e6d9-1d9d-478b-b0ce-69124f4f893a&rta_event_id=212a72b416566363792454668&os=Android&gps_adid=fc47f635-929a-40d2-b0f1-44a1e6bc8007&imei=__imei__&android_id=__android_id__&idfa=__idfa__&idfv=__idfv__&bundle_id=com.amanotes.beathopper&device_model=5505advan_nasa_plus&device_make=unknown&sub_id1=102&sub_id2=160970b9cfeb4573a726ea35e0cb616e_2022070100_1004&sub_id3=1004&sub_id4=__sub_id4__&sub_id5=__sub_id5__]]>
+                            </CompanionClickTracking>
+                            <CompanionClickTracking>
+                                <![CDATA[https://godzilla.taurusx.com/click?e=KV4jr_P9CPpj7A2rjtG1_7saGozqTFtizm-2pFvwv-q9r8in5B88G7CwoXxzoKTt4Od7PUU8dh1l1GUNs21KwuyhJqiHgt4f7GuGagYVFd44EpPDDMv9FqmjCZdfwuCybkCtJQQ2CEWwoLL70AJvHCEqJNTOGcVtUI9t8C1W0kMOVptHPISIXCeOBKpHzm39dX2N8WhwjcOf5cuTD0loUz30oolzuONleLdQBmny0HqgrHSoOGajifLbh0tDY0da&n=1004]]>
+                            </CompanionClickTracking>
+                            <CompanionClickTracking>
+                                <![CDATA[https://rtbtrack-asia.rtblab.net/clk?p=319&d=134&t=-G4sw_Kftpx2U_Ndpgg9h646TWp1vUlTRXymPMTPlnv5u4cNWEFKdmXQgL313zlEWxHDvUR5QObGvxaKSMsKDfBxj8jjyXyet2IDfWhJjfyyTMvttdH6lpCQdH3vYhWQ9l6L2Q81Wd92WiclWT6QuKCB_VfqvU1TK2WgJn43RGhjdyQ9uv8FOd1vbIrukAuIp_QoTeevarzJmmx_4IWlvxRZ5Y8WYvGIt0HWBeQZuKAV3J60ztCFAXsMoNGji_m4XqF8oZVjxfKhy4h-g2x7f-imrz-uj_H_pAQKK-Nvxk_dO98cb3WQFPRFQT2vx2b_wJ30_QSWQWESEwOeseM5L_08Ifj2CN7relaxTKgyJAex6WwmMHtoHbkeJ7D-Q1REIFG_9znKqufalloyMR01jM_PnqumxYY5r-dydumbWohRTF2za3MpEmcWzPcrfhuX9m2wASqAUcMMzCaalVC6mNsHaM3jjZTdumYZQ0QAemCYZS0jGbv4OJJI4b5KoYzp]]>
+                            </CompanionClickTracking>
+                        </Companion>
+                    </CompanionAds>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>

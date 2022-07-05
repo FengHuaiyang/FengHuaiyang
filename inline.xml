@@ -1,0 +1,160 @@
+<VAST version= "3.0">
+    <Ad id= "123">
+        <InLine>
+            <AdSystem>PubMatic</AdSystem>
+            <AdTitle>VAST 2.0 Instream Test</AdTitle>
+            <Description>VAST 2.0 Instream Test</Description>
+            <Error>
+                <![CDATA[https://aktrack.pubmatic.com/er=[ERRORCODE]]]>
+            </Error>
+            <Impression>
+                <![CDATA[https://aktrack.pubmatic.com?e=impression]]>
+            </Impression>
+            <Creatives>
+                <Creative AdID= "123">
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event= "creativeView">
+                                <![CDATA[https://aktrack.pubmatic.com?e=creativeView]]>
+                            </Tracking>
+                            <Tracking event= "start">
+                                <![CDATA[https://aktrack.pubmatic.com?e=start]]>
+                            </Tracking>
+                            <Tracking event= "midpoint">
+                                <![CDATA[https://aktrack.pubmatic.com?e=midpoint]]>
+                            </Tracking>
+                            <Tracking event= "firstQuartile">
+                                <![CDATA[https://aktrack.pubmatic.com?e=firstQuartile]]>
+                            </Tracking>
+                            <Tracking event= "thirdQuartile">
+                                <![CDATA[https://aktrack.pubmatic.com?e=thirdQuartile]]>
+                            </Tracking>
+                            <Tracking event= "complete">
+                                <![CDATA[https://aktrack.pubmatic.com?e=complete]]>
+                            </Tracking>
+                            <Tracking event= "pause">
+                                <![CDATA[https://aktrack.pubmatic.com?e=pause]]>
+                            </Tracking>
+                            <Tracking event= "resume">
+                                <![CDATA[https://aktrack.pubmatic.com?e=resume]]>
+                            </Tracking>
+                            <Tracking event= "mute">
+                                <![CDATA[https://aktrack.pubmatic.com?e=mute]]>
+                            </Tracking>
+                            <Tracking event= "unmute">
+                                <![CDATA[https://aktrack.pubmatic.com?e=unmute]]>
+                            </Tracking>
+                            <Tracking event= "skip">
+                                <![CDATA[https://aktrack.pubmatic.com?e=skip]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://www.pubmatic.com]]>
+                            </ClickThrough>
+                            <ClickTracking>
+                                <![CDATA[https://aktrack.pubmatic.com?e=click]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery= "progressive" type= "video/mp4" bitrate= "500" width= "480" height= "460" scalable= "true" maintainAspectRatio= "true">
+                                <![CDATA[http://sf1-ttcdn-tos.pstatp.com/obj/ttfe/adfe/union_endcard/union_test_tool.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery= "progressive" type= "video/ogg" bitrate= "500" width= "480" height= "460" scalable= "true" maintainAspectRatio= "true">
+                                <![CDATA[https://staging.pubmatic.com:8443/test/spinning-logo-480x360_video.ogg]]>
+                            </MediaFile>
+                            <MediaFile delivery= "progressive" type= "video/x-flv" bitrate= "500" width= "400" height= "300" scalable= "true" maintainAspectRatio= "true">
+                                <![CDATA[https://staging.pubmatic.com:8443/test/PubMatic_test_video.flv]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <Icons>
+                            <Icon program= "program" width= "123" height= "234" xPosition= "789" yPosition= "101" apiFramework= "apiFramework" offset= "00:00:03" duration= "01:02:03.456">
+                                <!-- <HTMLResource creativeType="ImAge/JpEg">
+                                <![CDATA[https://www.baidu.com]]></HTMLResource> -->
+                                <StaticResource creativeType= "ImAge/JpEg">
+                                    <![CDATA[https://s2.loli.net/2021/12/30/cjv5xbVlgfYX2hw.png]]>
+                                </StaticResource>
+                                <IconClicks>
+                                    <IconClickThrough>
+                                        <![CDATA[https://www.bing.com]]>
+                                    </IconClickThrough>
+                                    <IconClickTracking>
+                                        <![CDATA[https://aktrack.pubmatic.com?e=icon_click1]]>
+                                    </IconClickTracking>
+                                    <IconClickTracking>
+                                        <![CDATA[https://aktrack.pubmatic.com?e=icon_click2]]>
+                                    </IconClickTracking>
+                                </IconClicks>
+                                <IconViewTracking>
+                                    <![CDATA[https://aktrack.pubmatic.com?e=IconViewTracking1]]>
+                                </IconViewTracking>
+                                <IconViewTracking>
+                                    <![CDATA[https://aktrack.pubmatic.com?e=IconViewTracking2]]>
+                                </IconViewTracking>
+                            </Icon>
+                        </Icons>
+                    </Linear>
+                </Creative>
+                <Creative AdID= "123">
+                    <NonLinearAds>
+                        <TrackingEvents></TrackingEvents>
+                        <NonLinear height= "50" width= "300" minSuggestedDuration= "00:00:05">
+                            <StaticResource creativeType= "image/jpeg">
+                                <![CDATA[https://staging.pubmatic.com:8443/test/PubMatic_LetsBeClear_300x50.jpeg]]>
+                            </StaticResource>
+                            <NonLinearClickThrough>
+                                <![CDATA[https://www.pubmatic.com]]>
+                            </NonLinearClickThrough>
+                        </NonLinear>
+                    </NonLinearAds>
+                </Creative>
+                <Creative AdID= "123">
+                    <CompanionAds>
+                        <Companion width= "1080" height= "1920">
+                            <!-- <HTMLResource>
+                            <![CDATA[https://www.baidu.com]]></HTMLResource>  -->
+                            <StaticResource creativeType= "image/jpeg">
+                                <![CDATA[https://p0.ipstatp.com/origin/ad-site-i18n-sg/202103155d0d73cd25c1cfdb49478ade]]>
+                            </StaticResource>
+                            <CompanionClickThrough>
+                                <![CDATA[https://www.baidu.com]]>
+                            </CompanionClickThrough>
+                            <CompanionClickTracking>
+                                <![CDATA[https://aktrack.pubmatic.com?e=CompanionClickTracking]]>
+                            </CompanionClickTracking>
+                        </Companion>
+                    </CompanionAds>
+                    <CompanionAds>
+                        <Companion width= "1080" height= "1920">
+                            <!-- <HTMLResource>
+                            <![CDATA[https://www.baidu.com]]></HTMLResource>  -->
+                            <StaticResource creativeType= "image/jpeg">
+                                <![CDATA[https://p0.ipstatp.com/origin/]]>
+                            </StaticResource>
+                            <CompanionClickThrough>
+                                <![CDATA[https://www.baidu.com]]>
+                            </CompanionClickThrough>
+                            <CompanionClickTracking>
+                                <![CDATA[https://aktrack.pubmatic.com?e=CompanionClickTracking]]>
+                            </CompanionClickTracking>
+                        </Companion>
+                    </CompanionAds>
+                    <CompanionAds>
+                        <!-- <Companian width= "1080" height= "1920">  -->
+                        <!-- <HTMLResource>
+                        <![CDATA[https://www.baidu.com]]></HTMLResource>  -->
+                        <!-- <StaticResource creativeType= "image/jpeg">
+                        <![CDATA[https://p0.ipstatp.com/origin/ad-site-i18n-sg/202103155d0d73cd25c1cfdb49478ade]]>
+                    </StaticResource>
+                    <CompanionClickThrough>
+                        <![CDATA[https://www.baidu.com]]>
+                    </CompanionClickThrough>
+                    <CompanionClickTracking>
+                        <![CDATA[https://aktrack.pubmatic.com?e=CompanionClickTracking]]>
+                    </CompanionClickTracking></Companion> -->
+                </CompanionAds>
+            </Creative>
+        </Creatives>
+    </InLine>
+</Ad>undefinedundefined</VAST>

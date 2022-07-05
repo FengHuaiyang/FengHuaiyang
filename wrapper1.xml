@@ -2,7 +2,7 @@
     <Ad id="20011">
         <Wrapper>
             <AdSystem version="4.0">iabtechlab</AdSystem>
-            <VASTAdTagURI><![CDATA[]]></VASTAdTagURI>
+            <VASTAdTagURI><![CDATA[https://raw.githubusercontent.com/FengHuaiyang/FengHuaiyang/main/wrapper2.xml]]></VASTAdTagURI>
 
             <Error>http://example.com/error</Error>
 
